@@ -1,0 +1,14 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "description": "contact manager ",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db/db.json -p 9000"
+  },
+  "author": "Anil Varma",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

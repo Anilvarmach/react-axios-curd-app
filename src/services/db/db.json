@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "contact00001",
+      "name": "Anil Varma",
+      "mobile": "9505606626",
+      "email": "anil@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBGfoR24g82fsdyUuCCIb672C6sh1hQStEKw&usqp=CAU",
+      "groupId": 1
+    },
+    {
+      "id": "contact00002",
+      "name": "Dady",
+      "mobile": "9949258726",
+      "email": "dady@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvaZ7G79s6Wrme-p4edPk3ey210-ReL5U6A&usqp=CAU",
+      "groupId": 2
+    },
+    {
+      "id": "contact00003",
+      "name": "Vinay Kumar",
+      "mobile": "9676463605",
+      "email": "vk@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuIbv-7JSgC23hcGq8qDRBpFzdMBEw8urHdQ&usqp=CAU",
+      "groupId": 2
+    },
+    {
+      "id": "contact00004",
+      "name": "Synendra",
+      "mobile": "8985767469",
+      "email": "synu@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQb4jJzXX5S9IgIQW_hUtTfl4e_CFiu9toQ&usqp=CAU",
+      "groupId": 1
+    },
+    {
+      "id": "contact00005",
+      "name": "madeen",
+      "mobile": "8019999482",
+      "email": "mdn@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS884yE-aP3PQdStnZ7KZecX04EDdYa2YpRgQ&usqp=CAU",
+      "groupId": 1
+    },
+    {
+      "id": "contact00006",
+      "name": "Sumanth",
+      "mobile": "9553377515",
+      "email": "suman@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7uaIBDsEnqc-9Kfo-6PCr57tOEL1VvuNjg&usqp=CAU",
+      "groupId": 3
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friend"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Office"
+    },
+    {
+      "id": "4",
+      "name": "Others"
+    }
+  ]
+}
